@@ -1,4 +1,4 @@
-<h1>Webbservern fungerar!</h1>
+<h1>Webbservern fungerar! Tror du det? </h1>
 <p><strong>Denna sida (index.php) skall bytas ut.</strong></p>
 
 <?php
